@@ -1,0 +1,11 @@
+C:\Users\MI\source\repos\Open\Open\bin\Debug\Open.exe.config
+C:\Users\MI\source\repos\Open\Open\bin\Debug\Open.exe
+C:\Users\MI\source\repos\Open\Open\bin\Debug\Open.pdb
+C:\Users\MI\source\repos\Open\Open\bin\Debug\OpenTK.dll
+C:\Users\MI\source\repos\Open\Open\bin\Debug\OpenTK.pdb
+C:\Users\MI\source\repos\Open\Open\bin\Debug\OpenTK.xml
+C:\Users\MI\source\repos\Open\Open\obj\Debug\Open.csprojAssemblyReference.cache
+C:\Users\MI\source\repos\Open\Open\obj\Debug\Open.csproj.CoreCompileInputs.cache
+C:\Users\MI\source\repos\Open\Open\obj\Debug\Open.csproj.CopyComplete
+C:\Users\MI\source\repos\Open\Open\obj\Debug\Open.exe
+C:\Users\MI\source\repos\Open\Open\obj\Debug\Open.pdb
